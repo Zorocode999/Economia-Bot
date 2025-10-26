@@ -1,0 +1,176 @@
+{
+    "1274763275090923540": {
+        "carteira": 66783099,
+        "banco": 0,
+        "inventario": {
+            "celular": 1,
+            "arma_plasma": 1,
+            "passaporte_falso": 1,
+            "chip_hacker": 1,
+            "diamante_sangue": 1,
+            "pc_gamer": 1,
+            "mansao": 1,
+            "carro": 1,
+            "iate": 1
+        },
+        "trabalho": "empresario",
+        "ultimo_trabalho": "2025-10-24T22:53:33.445590",
+        "ultimo_daily": "2025-10-24T00:21:09.516324",
+        "ultimo_roubo": "2025-10-24T22:56:20.181115",
+        "celular": true,
+        "apps": [
+            "bolsa_valores"
+        ],
+        "nivel": 1,
+        "xp": 120,
+        "reputacao": -120,
+        "vip": "alpha",
+        "vip_expira": null,
+        "anel_ultimo_uso_criar": "2025-10-24",
+        "anel_ultimo_uso_punir": "2025-10-24"
+    },
+    "1319822467530883190": {
+        "carteira": 1000,
+        "banco": 0,
+        "inventario": {
+            "anel_supremo": 1
+        },
+        "trabalho": null,
+        "ultimo_trabalho": null,
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 0,
+        "reputacao": 0,
+        "vip": null,
+        "vip_expira": null
+    },
+    "1147606116205854730": {
+        "carteira": 21000,
+        "banco": 0,
+        "inventario": {},
+        "trabalho": null,
+        "ultimo_trabalho": null,
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 0,
+        "reputacao": 0,
+        "vip": null,
+        "vip_expira": null
+    },
+    "966522250385850398": {
+        "carteira": 21501,
+        "banco": 0,
+        "inventario": {
+            "anel_supremo": 1
+        },
+        "trabalho": "entregador",
+        "ultimo_trabalho": "2025-10-23T00:41:04.778316",
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 20,
+        "reputacao": 0,
+        "vip": null,
+        "vip_expira": null,
+        "anel_ultimo_uso_punir": "2025-10-24"
+    },
+    "1304078184672923700": {
+        "carteira": 121001,
+        "banco": 0,
+        "inventario": {},
+        "trabalho": null,
+        "ultimo_trabalho": null,
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 0,
+        "reputacao": 0,
+        "vip": "diamond",
+        "vip_expira": null
+    },
+    "713159546637385771": {
+        "carteira": 0,
+        "banco": 21956,
+        "inventario": {
+            "celular": 1
+        },
+        "trabalho": "entregador",
+        "ultimo_trabalho": "2025-10-23T16:53:58.860248",
+        "ultimo_daily": "2025-10-24T20:15:29.427944",
+        "ultimo_roubo": null,
+        "celular": true,
+        "apps": [
+            "banco_digital",
+            "bolsa_valores"
+        ],
+        "nivel": 1,
+        "xp": 40,
+        "reputacao": 0,
+        "vip": null,
+        "vip_expira": null
+    },
+    "1380350789439979562": {
+        "carteira": 11001,
+        "banco": 0,
+        "inventario": {},
+        "trabalho": null,
+        "ultimo_trabalho": null,
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 0,
+        "reputacao": 0,
+        "vip": "diamond",
+        "vip_expira": null
+    },
+    "1180066373729263782": {
+        "carteira": 1000,
+        "banco": 0,
+        "inventario": {
+            "anel_supremo": 1
+        },
+        "trabalho": null,
+        "ultimo_trabalho": null,
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 0,
+        "reputacao": 0,
+        "vip": null,
+        "vip_expira": null,
+        "anel_ultimo_uso_criar": null,
+        "anel_ultimo_uso_punir": null
+    },
+    "1365709441684607117": {
+        "carteira": 1001,
+        "banco": 0,
+        "inventario": {},
+        "trabalho": null,
+        "ultimo_trabalho": null,
+        "ultimo_daily": null,
+        "ultimo_roubo": null,
+        "celular": false,
+        "apps": [],
+        "nivel": 1,
+        "xp": 0,
+        "reputacao": 0,
+        "vip": null,
+        "vip_expira": null,
+        "anel_ultimo_uso_criar": null,
+        "anel_ultimo_uso_punir": null
+    }
+}
