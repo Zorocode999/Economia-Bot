@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands, tasks
 from discord import Embed, Interaction, app_commands
 import json
-import os
+
 try:
     from dotenv import load_dotenv
     # load default .env first
@@ -37,7 +37,12 @@ intents.message_content = True
 intents.members = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
+import os
 
+TOKEN = os.getenv('TOKEN')  # Pega do Railway
+bot.run(TOKEN)
+
+# ============ COMANDOS ADMINISTRATIVOS ============
 @bot.tree.command(name="admin_remover_item", description="👑 [ADMIN] Remover um item de um usuário")
 @app_commands.checks.has_permissions(administrator=True)
 async def admin_remover_item(interaction: discord.Interaction, usuario: discord.Member, item: str):
